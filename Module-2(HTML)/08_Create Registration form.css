@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: conic-gradient(rgba(255, 0, 0, 0.553),rgba(0, 0, 255, 0.498),rgba(0, 128, 0, 0.543),rgba(255, 166, 0, 0.719));
+}
+.main{
+    height: 1000px;
+    width: 800px;
+    border: 1px solid black;
+    margin: 80px auto;
+    background-color: aqua;
+    box-shadow: 0px 0px 5px 10px black;
+}
+fieldset{
+    border: 1px;
+    border-style: none;
+}
+.field{
+    text-align: center;
+    margin: 40px 40px;
+    outline-style: double;
+    outline-width: 5px;
+    height: 100px;
+    width: 700px;
+}
+h1{
+    font-size: 50px;
+    padding: 20px 0px;
+}
+.container{
+    margin: 0px 100px;
+}
+.td1{
+    width: 150px;
+    font-size: 20px
+}
+.td2{
+    width:350px;
+    height: 30px;
+}
+.gen{
+    width: 150px;
+    font-size: 20px
+}
+.gen1{
+    width: 350px;
+    height: 30px;
+}
+.date{
+    width: 150px;
+    font-size: 20px
+}
+.date1{
+    width: 350px;
+    height: 30px;
+    font-size: 20px
+}
+.add{
+    width: 150px;
+    font-size: 20px
+}
+.add1{
+    width: 350px;
+    height: 30px;
+    font-size: 20px
+}
+.bld{
+    width: 150px;
+    font-size: 20px
+}
+.bld1 {
+    width: 100px;
+    height: 30px;
+    font-size: 20px
+}
+.dep {
+    width: 150px;
+    font-size: 20px
+}
+.dep1 {
+    width: 350px;
+    height: 30px;
+    font-size: 20px;
+}
+.crs {
+    width: 150px;
+    font-size: 20px
+}
+.crs1 {
+    width: 350px;
+    height: 30px;
+    font-size: 20px;
+}
+.pht {
+    width: 150px;
+    font-size: 20px
+}
+.pht1 {
+    height: 30px;
+    font-size: 20px;
+}
+.pht1 input{
+    width: 100px;
+    height: 20px;
+    font-size: 20px;
+}
+.btn{
+    height: 30px;
+    text-align: center;
+}
+button{
+    height: 30px;
+    width: 80px;
+    background-color: brown;
+    color: white;
+}
+

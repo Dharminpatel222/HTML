@@ -1,0 +1,15 @@
+(1)Website:Website is a collection of related web pages that may contain tex,image,audio and video.A website can consist of one page,or thousands of pages,depending on what the site owner is trying to accomplish.
+
+(2)Web Page:A webpages is a digital document that contains information,usually written in HTML,and can be viewed by anyone connected to the internet through a web browser.
+
+(3)Web Browser:Browser is a computer program that helps the user to find information from the internet.
+
+(4)Web Server:A web server is a softwer that provides web pages and websites to users when a users when a user ask and helps people surf the net.
+
+(5)HTML:The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.
+
+(6)CSS:Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+
+
+In how many ways can a CSS be integrated as a web page?
+ANS=>CSS can be added to HTML documents in 3 ways: Inline - by using the style attribute inside HTML elements. Internal - by using a <style> element in the <head> section. External - by using a <link> element to link to an external CSS file.
